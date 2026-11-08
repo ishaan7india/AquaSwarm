@@ -270,7 +270,7 @@ I also conducted a preliminary risk analysis, identifying possible issues such a
 
 Another important part of this stage was preparing the preliminary Bill of Materials. I listed the major electronic, mechanical and electrical components required for the prototype, including the Raspberry Pi 4, Arduino Uno, camera, propulsion units, motor drivers, rechargeable power system, floating hull materials and collection mechanism.
 
-I also developed an initial budget estimate of approximately $140 to $240, covering the major prototype components and supporting materials. This estimate will be refined once the exact hardware specifications and suppliers are finalised. However, I already have a Raspberry Pi 4, so the price will be reducing greatly.
+I also developed an initial budget estimate of approximately $140 to $240, covering the major prototype components and supporting materials. This estimate will be refined once the exact hardware specifications and suppliers are finalised. However, I already have a Raspberry Pi 4 and Arduino, so the price will be reducing greatly.
 
 Finally, I established a preliminary development priority list to guide the transition from research and planning towards actual hardware integration and testing.
 
