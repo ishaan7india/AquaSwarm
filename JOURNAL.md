@@ -22,7 +22,7 @@
 6. [2026-11-08: Spent 2 hours researching the floating platform and hull configuration for AquaSwarm V0.1.](#2026-11-08-spent-2-hours-researching-the-floating-platform-a)
 7. [2026-11-08: Spent 2 hours researching the camera and live monitoring subsystem for AquaSwarm V0.1.](#2026-11-08-spent-2-hours-researching-the-camera-and-live-mon)
 8. [2026-11-08: Spent 2 hours researching possible waste collection mechanisms for AquaSwarm V0.1.](#2026-11-08-spent-2-hours-researching-possible-waste-collecti)
-9. [2026-11-08: Writing](#2026-11-08-writing)
+9. [2026-11-08: Spent 2 hours researching the power system requirements for AquaSwarm V0.1.](#2026-11-08-spent-2-hours-researching-the-power-system-requir)
 10. [2026-11-08: Spent 2 hours researching the communication and remote-control architecture for AquaSwarm V0.1.](#2026-11-08-spent-2-hours-researching-the-communication-and-r)
 11. [2026-11-08: Spent 2 hours evaluating the technical feasibility of AquaSwarm V0.1 and consolidating the research completed during the previous development stages.](#2026-11-08-spent-2-hours-evaluating-the-technical-feasibilit)
 12. [2026-11-08: Spent an hour consolidating and organising the technical research completed throughout the initial 24-hour development phase of AquaSwarm V0.1.](#2026-11-08-spent-an-hour-consolidating-and-organising-the-te)
@@ -208,13 +208,9 @@ Outcome: Identified the preliminary front-mounted mesh collection concept, compa
 
 ![AquaSwarm Waste Collection Research](https://halflife.hackclub-assets.com/sessions/EmbFv8sT4oiWItMJ6FVW7tjawx6AuYDp/c5d3a521250ca56db78d12eb388ba292cfd39c9f53b56537066b04856410d8ec.png)
 
-### 2026-11-08: Writing
+### 2026-11-08: Spent 2 hours researching the power system requirements for AquaSwarm V0.1.
 
 **2h**
-
-Writing
-
-Entry 09 – Power System Research and Power Distribution
 
 Spent 2 hours researching the power system requirements for AquaSwarm V0.1.
 
