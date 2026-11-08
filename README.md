@@ -7,7 +7,7 @@ V0.1 focuses on developing the technical foundation for a remotely controlled aq
 
 The project aims to make aquatic waste collection more accessible through practical robotics and modular engineering.
 
-![AquaSwarm V0.1 – Project Overview](assets/AquaSwarm%20V0.1%20Lake%20Cleanup%20Overview.png)
+![AquaSwarm V0.1 – Project Overview](AquaSwarm%20V0.1%20Lake%20Cleanup%20Overview.png)
 
 > **Small robot. Big impact.**
 
@@ -48,7 +48,7 @@ The problem inspired a simple question:
 
 **Can we use accessible robotics to make floating-waste collection more efficient?**
 
-![Newspaper-style research visuals about lake pollution](assets/Torn%20Headlines%20on%20Lake%20Pollution.png)
+![Newspaper-style research visuals about lake pollution](Torn%20Headlines%20on%20Lake%20Pollution.png)
 
 AquaSwarm explores this idea through a robotic platform designed specifically for surface-level waste collection.
 
@@ -69,7 +69,7 @@ The system is planned around the following features:
 - Removable front-mounted mesh collector.
 - Rechargeable battery-based power system.
 
-![AquaSwarm V0.1 – Concept render](assets/AquaSwarm%20Lake%20Cleanup%20Catamaran.png)
+![AquaSwarm V0.1 – Concept render](AquaSwarm%20Lake%20Cleanup%20Catamaran.png)
 
 **Important:** AquaSwarm V0.1 is currently at the concept, research and technical-planning stage. The visuals represent the proposed design, not a completed or tested physical prototype.
 
@@ -93,7 +93,7 @@ The initial version prioritises reliable remote operation and basic collection r
 
 The proposed architecture divides AquaSwarm into separate subsystems that communicate with one another.
 
-![AquaSwarm V0.1 – System Architecture](assets/AquaSwarm%20V0.1%20System%20Architecture.png)
+![AquaSwarm V0.1 – System Architecture](AquaSwarm%20V0.1%20System%20Architecture.png)
 
 ### Main processing – Raspberry Pi 4
 
@@ -127,7 +127,7 @@ The proposed connection between the Raspberry Pi and Arduino is UART serial comm
 
 This separates higher-level processing from direct hardware control.
 
-![AquaSwarm Controller Architecture](assets/AquaSwarm%20Controller%20Architecture%20Infographic.png)
+![AquaSwarm Controller Architecture](AquaSwarm%20Controller%20Architecture%20Infographic.png)
 
 ---
 
@@ -165,7 +165,7 @@ The proposed arrangement places one propulsion unit on each side of the platform
 - **Turn right:** The left motor provides greater thrust than the right.
 - **Stop:** Both motors stop.
 
-![AquaSwarm V0.1 – Propulsion Research](assets/AquaSwarm%20V0.1%20Propulsion%20Research.png)
+![AquaSwarm V0.1 – Propulsion Research](AquaSwarm%20V0.1%20Propulsion%20Research.png)
 
 ### Propulsion options considered
 
@@ -193,7 +193,7 @@ This arrangement was selected as the preferred concept because it provides:
 - A practical layout for two propulsion units.
 - Opportunities for modular construction.
 
-![AquaSwarm V0.1 – Hull Design Research](assets/AquaSwarm%20V0.1%20Hull%20Design%20Infographic.png)
+![AquaSwarm V0.1 – Hull Design Research](AquaSwarm%20V0.1%20Hull%20Design%20Infographic.png)
 
 ### Buoyancy and stability
 
@@ -218,7 +218,7 @@ A major part of AquaSwarm is its proposed front-mounted waste collection system.
 
 The initial concept uses a removable mesh collector that allows water to drain while retaining floating debris.
 
-![AquaSwarm V0.1 – Waste Collection Research](assets/AquaSwarm%20Waste%20Collection%20Research.png)
+![AquaSwarm V0.1 – Waste Collection Research](AquaSwarm%20Waste%20Collection%20Research.png)
 
 ### Mechanism concept
 
@@ -246,7 +246,7 @@ AquaSwarm is planned to include a forward-facing camera for monitoring the surro
 
 The camera feed will be transmitted to a browser-based dashboard through the Raspberry Pi.
 
-![AquaSwarm V0.1 – Camera and Monitoring Research](assets/AquaSwarm%20V0.1%20Monitoring%20System.png)
+![AquaSwarm V0.1 – Camera and Monitoring Research](AquaSwarm%20V0.1%20Monitoring%20System.png)
 
 ### Proposed monitoring features
 
@@ -272,7 +272,7 @@ The proposed primary communication method is local Wi-Fi.
 
 This allows an operator to connect to the robot through a phone or laptop without requiring an external internet connection.
 
-![AquaSwarm – Communication Blueprint](assets/AquaSwarm%20Communication%20Blueprint.png)
+![AquaSwarm – Communication Blueprint](AquaSwarm%20Communication%20Blueprint.png)
 
 ### Proposed communication architecture
 
@@ -320,7 +320,7 @@ The power system must support both the computing electronics and propulsion comp
 
 The preliminary architecture separates the electronics power path from the motor power path.
 
-![AquaSwarm V0.1 – Power System Research](assets/AquaSwarm%20V0.1%20Power%20System%20Infographic.png)
+![AquaSwarm V0.1 – Power System Research](AquaSwarm%20V0.1%20Power%20System%20Infographic.png)
 
 ### Proposed power distribution
 
@@ -471,7 +471,7 @@ AquaSwarm is intended to develop progressively, with each version introducing ad
 | V5–V6 | Multi-robot coordination |
 | V7–V8 | Advanced autonomous AquaSwarm ecosystem |
 
-![AquaSwarm V0.1 – Development Roadmap](assets/AquaSwarm%20V0.1%20Technical%20Roadmap.png)
+![AquaSwarm V0.1 – Development Roadmap](AquaSwarm%20V0.1%20Technical%20Roadmap.png)
 
 The roadmap represents the long-term development vision. These features have not yet been implemented.
 
@@ -481,7 +481,7 @@ The roadmap represents the long-term development vision. These features have not
 
 The long-term vision is to develop AquaSwarm into an intelligent fleet of autonomous aquatic cleanup robots.
 
-![AquaSwarm V8 – Future Swarm Concept](assets/AquaSwarm%20V8%20Lake%20Cleanup%20Swarm.png)
+![AquaSwarm V8 – Future Swarm Concept](AquaSwarm%20V8%20Lake%20Cleanup%20Swarm.png)
 
 Potential future capabilities include:
 
@@ -530,7 +530,7 @@ The work includes:
 
 ## Final Project Overview
 
-![AquaSwarm V0.1 – Final Technical Overview](assets/AquaSwarm%20V0.1%20Technical%20Overview.png)
+![AquaSwarm V0.1 – Final Technical Overview](AquaSwarm%20V0.1%20Technical%20Overview.png)
 
 AquaSwarm V0.1 establishes the initial technical foundation for a robotic water-surface cleanup platform.
 
